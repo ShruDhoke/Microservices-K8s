@@ -21,7 +21,7 @@ To install and run the application on your Kubernetes cluster, follow these step
 
 4. Verify that the deployment and service have been created successfully by running the following command:
 
-`kubectl get deployments,services`
+`kubectl get deployments, services`
 
 5. If everything is working properly, you should see the name of your deployment and service listed in the output.
 
